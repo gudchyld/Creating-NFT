@@ -1,0 +1,16 @@
+{
+  "description": "NFT deployed on Ethereum Goerli for the Web3bridge test",
+  "external_url": "https://alchemy.com",
+  "image": "https://ipfs.filebase.io/ipfs/QmQEDE9vHmr1zsNvZCMgeqaNg4vaMoLP1ZZq2JQcANnFfD",
+  "name": "Elendu",
+  "attributes": [
+    {
+      "trait_type": "Origin",
+      "value": "Africa"
+    },
+    {
+      "trait_type": "profession",
+      "value": "Developer"
+    }
+  ]
+}
